@@ -1,8 +1,10 @@
 # db-gestao-universidade
 Script de criação de um banco de dados para universidade.
 
-Victor Hugo B. S. Miranda
 
+-------------------- Sobre Banco de Dados --------------------
+
+Victor Hugo B. S. Miranda
 Síntese
 
 Banco de dados e usuário de banco de dados
